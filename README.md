@@ -42,17 +42,16 @@ Navigate through the sections to learn more about me and my work. Click on the i
 
 - HTML
 - CSS (Flexbox, CSS Variables, Media Queries)
-- JavaScript
 - GitHub Pages (for deployment)
-
-## Deployment
-
-The application is deployed at [https://username.github.io/professional-portfolio](https://username.github.io/professional-portfolio).
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contributing
+## Screenshot 
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+<img width="1433" alt="Screenshot 2024-08-02 at 6 30 40 PM" src="https://github.com/user-attachments/assets/acca001c-06dd-4a09-8e66-a9089bf10f23">
+
+<img width="1429" alt="Screenshot 2024-08-02 at 6 30 57 PM" src="https://github.com/user-attachments/assets/32e19faa-d395-4ac6-8859-c5e5d65c6061">
+

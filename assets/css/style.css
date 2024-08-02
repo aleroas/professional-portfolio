@@ -22,7 +22,7 @@ header {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 20px;
-    box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 5px rgba(213, 18, 18, 0.5);
 }
 
 header h1 {
@@ -72,11 +72,11 @@ header nav a:hover {
     display: flex;
     justify-content: end;
     text-align: right;
-    color: rgb(0, 119, 254);
+    color: rgb(162, 167, 172);
 }
 
 .hero .quote p {
-    font-size: 40px;
+    font-size: 20px;
 }
 
 /*Main*/
